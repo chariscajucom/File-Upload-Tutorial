@@ -1,0 +1,30 @@
+{
+  "name": "fileupload",
+  "version": "1.0.0",
+  "description": "File Upload with MEAN 2 Stack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chariscajucom/File-Upload-Tutorial.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "ng2",
+    "File",
+    "Upload"
+  ],
+  "author": "Charis Cajucom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chariscajucom/File-Upload-Tutorial/issues"
+  },
+  "homepage": "https://github.com/chariscajucom/File-Upload-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10"
+  }
+}
